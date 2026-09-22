@@ -12,6 +12,9 @@ public class Zoo {
         b.sayHi();
         b.makeSound();
         b.jump();
+        Gorilla c = new Gorilla();
+             System.out.println(c.getBananasConsumed() + " Bananas!");
+             System.out.println(c.getWeight() + " Bananas!");
     }
 
     public void method1(){

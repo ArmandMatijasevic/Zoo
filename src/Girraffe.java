@@ -1,6 +1,6 @@
 public class Girraffe extends Animal{
     public Girraffe(){
-        numLegs = 4;
+        setNumLegs(4);
     }
 
     @Override
